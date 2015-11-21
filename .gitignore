@@ -53,5 +53,11 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# outcome
+*.jpeg
+*.jpg
+*.png
+*.gif
+
 # PyBuilder
 target/
